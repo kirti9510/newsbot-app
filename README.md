@@ -40,9 +40,11 @@ This is a Streamlit application that fetches news articles from URLs, summarizes
 
 3. Enter a news article URL, fetch the article, and then summarize or ask questions about it.
 
-4. ![Summarizer Screenshot](summarizerSS.png)
+4. Summarizer Screenshot
+   ![Summarizer Screenshot](summarizerSS.png)
 
-5. ![Q&A Screenshot](qnaSS.png)
+6. Q&A Screenshot
+   ![Q&A Screenshot](qnaSS.png)
 
 ## Dependencies
 
